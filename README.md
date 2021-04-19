@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wesferr
 - 👀 I’m interested in Computer Graphics, Computer Vision and Artificial Intelligence
-- 🌱 I’m currently learning Mesh Parametrization, Animation and Colision Detection
+- 🌱 I’m currently learning Rigid Body Parametrization, Animation and Colision Detection
 - 💞️ I’m looking to collaborate on Simulation and CAD systems
 - 📫 How to reach me: wesley.ferreira@inf.ufrgs.br
 
