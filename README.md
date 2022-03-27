@@ -10,7 +10,6 @@ About Me:
 My Big Projects:
 - Dobra Products CAD System https://estampas.querodobra.com.br/
 - Muambator order tracking ex-colaborator: https://www.muambator.com.br/
-- CS Undergraduate Thesis - Client-Server Computer Vision Based Personal Collection Organizer: https://github.com/wesferr/CV-Based-Personal-Organizer
 
 
 <!---
