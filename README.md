@@ -1,9 +1,9 @@
 About Me:
 
 - 👋 Hi, I’m @wesferr
-- 👀 I’m interested in Computer Graphics, Virtual Reality, Artificial Intelligence
-- 🌱 I’m currently learning Rigid Body Parametrization, Numerical Simulation, Animation
-- 💞️ I’m looking to collaborate on Simulation Systems
+- 👀 I’m interested in Computer Graphics, Virtual Reality, and Artificial Intelligence.
+- 🌱 I’m currently learning Rigid Body Parametrization, Numerical Simulation, and Animation.
+- 💞️ I want to collaborate on Simulation Systems, especially in VR environments.
 - 📫 How to reach me: wesley.ferreira@inf.ufrgs.br
 
 
