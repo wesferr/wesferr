@@ -14,8 +14,8 @@ My Finished Projects:
 - Master Thesis: [A Template-Based Anthropometric Measurement Approach for 3D Scanned Bodies](https://github.com/wesferr/3D-Scanned-Bodies-Measurement)
 
 My open Project:
-[Metahealth Co.](https://metahealth.med.br/)
-[Artificial Intelligence Virtual Patient](https://github.com/wesferr/Artificial-Intelligence-Virtual-Patient)
+- [Metahealth Co.](https://metahealth.med.br/)
+- [Artificial Intelligence Virtual Patient](https://github.com/wesferr/Artificial-Intelligence-Virtual-Patient)
 <!---
 wesferr/wesferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
