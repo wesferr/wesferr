@@ -1,22 +1,29 @@
-About Me:
+# Hi, I'm Wesley Ferreira 👋
 
-- 👋 Hi, I’m Wesley F. Ferreira(@wesferr)
-- 👀 I’m interested in Computer Graphics, Virtual Reality, and Artificial Intelligence.
-- 🌱 I’m currently learning Virtual Human Communication and Expressivity.
-- 💞️ I want to collaborate on Simulation Systems, especially in VR environments.
-- 📫 How to reach me: wesley.ferreira@inf.ufrgs.br
+Ph.D. Candidate in Computer Science and Real-Time Interactive Systems Engineer focused on Character Systems, intelligent NPCs, Graphics Pipelines, and AI-driven interactive applications.
 
+My work combines computer graphics, behavioral systems, simulation, GPU computing, and software architecture to create virtual humans, conversational agents, immersive environments, and real-time interactive systems.
 
-My Finished Projects:
-- Dobra Products CAD System [Estampas Dobra](https://www.youtube.com/watch?v=UxN6RDeJd9c)
-- Muambator order tracking collaborator: [Muambator](https://www.muambator.com.br/)
-- Undergraduate Thesis: [Computer Vision Based Personal Organizer](https://github.com/wesferr/CV-Based-Personal-Organizer)
-- Master Thesis: [A Template-Based Anthropometric Measurement Approach for 3D Scanned Bodies](https://github.com/wesferr/3D-Scanned-Bodies-Measurement)
-- VR and Integration Developer: [Metahealth Co.](https://metahealth.med.br/)
+## Areas of Interest
 
-My open Project:
-- [Artificial Intelligence Virtual Humans](https://github.com/wesferr/Artificial-Intelligence-Virtual-Patient)
-<!---
-wesferr/wesferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Character Systems
+* Character AI and Conversational NPCs
+* Computer Graphics and Graphics Pipelines
+* Virtual Humans and Expressive Agents
+* Simulation Systems
+* GPU Computing
+* XR / Virtual Reality
+* Human-AI Interaction
+
+## Selected Projects
+
+Intelligent Virtual Humans & Character Systems
+* 🧠 [Intelligent Virtual Humans & Character Systems](https://github.com/wesferr/Artificial-Intelligence-Virtual-Patient)
+* 🏭 [Collab Dobra Graphics Pipeline](https://www.youtube.com/watch?v=UxN6RDeJd9c)
+* 📦 [Muambator Integrations Platform](https://www.muambator.com.br/)
+* 👁️ [Computer Vision-Based Retrieval System]()
+* 🧍 [3D Human Body Measurement and Geometry Processing](https://github.com/wesferr/3D-Scanned-Bodies-Measurement)
+
+## Contact
+
+📫 [wferreira531@gmail.com](mailto:wferreira531@gmail.com)
