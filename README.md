@@ -4,7 +4,7 @@ Ph.D. Candidate in Computer Science and Real-Time Interactive Systems Engineer f
 
 My work combines computer graphics, behavioral systems, simulation, GPU computing, and software architecture to create virtual humans, conversational agents, immersive environments, and real-time interactive systems.
 
-## Areas of Interest
+## Areas of Expertise
 
 * Character Systems
 * Character AI and Conversational NPCs
@@ -17,12 +17,14 @@ My work combines computer graphics, behavioral systems, simulation, GPU computin
 
 ## Selected Projects
 
-Intelligent Virtual Humans & Character Systems
-* 🧠 [Intelligent Virtual Humans & Character Systems](https://github.com/wesferr/Artificial-Intelligence-Virtual-Patient)
+Research and development projects in Character Systems, Intelligent NPCs, Computer Graphics, Simulation, GPU Computing, and Artificial Intelligence.
+
+* 🧠 [Intelligent NPCs & Virtual Humans](https://github.com/wesferr/Artificial-Intelligence-Virtual-Patient)
+* 🥽 [Metahealth Medical Training Platform](https://www.metahealth.com.br/)
 * 🏭 [Collab Dobra Graphics Pipeline](https://www.youtube.com/watch?v=UxN6RDeJd9c)
 * 📦 [Muambator Integrations Platform](https://www.muambator.com.br/)
 * 👁️ [Computer Vision-Based Retrieval System]()
-* 🧍 [3D Human Body Measurement and Geometry Processing](https://github.com/wesferr/3D-Scanned-Bodies-Measurement)
+* 🧍 [Human Body Modeling & Geometry Processing](https://github.com/wesferr/3D-Scanned-Bodies-Measurement)
 
 ## Contact
 
