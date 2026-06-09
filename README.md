@@ -21,7 +21,7 @@ Research and development projects in Character Systems, Intelligent NPCs, Comput
 
 * 🧠 [Intelligent NPCs & Virtual Humans](https://github.com/wesferr/Artificial-Intelligence-Virtual-Patient)
 * 🥽 [Metahealth Medical Training Platform](https://www.metahealth.com.br/)
-* 🏭 [Collab Dobra Graphics Pipeline](https://www.youtube.com/watch?v=UxN6RDeJd9c)
+* 🏭 [Collab Dobra Graphics Pipeline](https://github.com/wesferr/Collab-Dobra)
 * 📦 [Muambator Integrations Platform](https://www.muambator.com.br/)
 * 👁️ [Computer Vision-Based Retrieval System]()
 * 🧍 [Human Body Modeling & Geometry Processing](https://github.com/wesferr/3D-Scanned-Bodies-Measurement)
