@@ -1,6 +1,6 @@
 # Hi, I'm Wesley Ferreira 👋
 
-Ph.D. Candidate in Computer Science and Real-Time Interactive Systems Engineer focused on Character Systems, intelligent NPCs, Graphics Pipelines, and AI-driven interactive applications.
+Ph.D. Candidate in Computer Science and Interactive Systems Engineer focused on Character Systems, intelligent NPCs, Graphics Pipelines, and AI-driven interactive applications.
 
 My work combines computer graphics, behavioral systems, simulation, GPU computing, and software architecture to create virtual humans, conversational agents, immersive environments, and real-time interactive systems.
 
@@ -19,12 +19,11 @@ My work combines computer graphics, behavioral systems, simulation, GPU computin
 
 Research and development projects in Character Systems, Intelligent NPCs, Computer Graphics, Simulation, GPU Computing, and Artificial Intelligence.
 
-* 🧠 [Intelligent NPCs & Virtual Humans](https://github.com/wesferr/Artificial-Intelligence-Virtual-Patient)
+* 🧠 [Intelligent NPCs & Virtual Humans](https://github.com/wesferr/virtual-humans)
 * 🥽 [Metahealth Medical Training Platform](https://www.metahealth.com.br/)
-* 🏭 [Collab Dobra Graphics Pipeline](https://github.com/wesferr/Collab-Dobra)
-* 📦 [Muambator Integrations Platform](https://www.muambator.com.br/)
-* 👁️ [Computer Vision-Based Retrieval System]()
-* 🧍 [Human Body Modeling & Geometry Processing](https://github.com/wesferr/3D-Scanned-Bodies-Measurement)
+* 🏭 [Collab Dobra Graphics Pipeline](https://github.com/wesferr/collab-dobra)
+* 🧍 [Human Body Modeling & Geometry Processing](https://github.com/wesferr/human-body-modeling)
+* 👁️ [Computer Vision Retrieval System](https://github.com/wesferr/computer-vision-retrieval)
 
 ## Contact
 
