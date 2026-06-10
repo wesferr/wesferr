@@ -19,11 +19,25 @@ My work combines computer graphics, behavioral systems, simulation, GPU computin
 
 Research and development projects in Character Systems, Intelligent NPCs, Computer Graphics, Simulation, GPU Computing, and Artificial Intelligence.
 
-* 🧠 [Intelligent NPCs & Virtual Humans](https://github.com/wesferr/virtual-humans)
-* 🥽 [Metahealth Medical Training Platform](https://www.metahealth.com.br/)
-* 🏭 [Collab Dobra Graphics Pipeline](https://github.com/wesferr/collab-dobra)
-* 🧍 [Human Body Modeling & Geometry Processing](https://github.com/wesferr/human-body-modeling)
-* 👁️ [Computer Vision Retrieval System](https://github.com/wesferr/computer-vision-retrieval)
+* 🧠 [Intelligent NPCs & Virtual Humans](https://github.com/wesferr/virtual-humans) — 2024-Present
+* 🥽 [Metahealth Medical Training Platform](https://www.metahealth.com.br/) — 2023-2025
+* 🏭 [Collab Dobra Graphics Pipeline](https://github.com/wesferr/collab-dobra) — 2020-2022
+* 🧍 [Human Body Modeling & Geometry Processing](https://github.com/wesferr/human-body-modeling) — 2021-2023
+* 👁️ [Computer Vision Retrieval System](https://github.com/wesferr/computer-vision-retrieval) — 2019-2020
+
+## Historical Archive
+
+A diverse collection of personal projects spanning graphics, AI, games, and interactive systems.
+
+### Graphics & Simulation
+* 🎮 [OpenGL Space Shooter](https://github.com/wesferr/opengl-space-shooter) - C++ graphics engine project - 2017
+* 🧬 [Aging Human Body Shape (AHBS)](https://github.com/wesferr/AHBS) - Python body shape modeling and analysis - 2021
+
+### Games & Interactive Applications
+* 🕹️ [Pong Game](https://github.com/wesferr/pong) - C++ classic arcade implementation - 2016
+* 🐍 [Snake Game](https://github.com/wesferr/snake) - C ncurses implementation - 2016
+* 🧟 [Zombicide](https://github.com/wesferr/zombicide) - Python board game inspired project - 2018
+* 📚 [Jogo Letras EAD](https://github.com/wesferr/jogo-letras-ead) - JavaScript educational game for Letters course (Unipampa) - 2018
 
 ## Contact
 
