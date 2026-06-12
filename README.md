@@ -9,7 +9,7 @@ My work combines computer graphics, behavioral systems, simulation, GPU computin
     <tr>
       <td align="center" width="50%">
         <img src="https://github.com/user-attachments/assets/1b3bbed9-f365-4200-8abd-346be9d576dd"><br>
-        <em>Virtual Human Expressiveness</em>
+        <em>Real-Time Virtual Human Expressiveness</em>
       </td>
       <td align="center" width="50%">
         <img src="https://github.com/user-attachments/assets/e8f1621e-5db9-44d0-9628-4bc37f6095d0"><br>
