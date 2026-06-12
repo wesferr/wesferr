@@ -4,17 +4,20 @@ Interactive Systems Engineer with experience building production systems in simu
 
 My work combines computer graphics, behavioral systems, simulation, GPU computing, and software architecture to create virtual humans, conversational agents, immersive environments, and real-time interactive systems.
 
-<div align="center">
-  <div style="display: inline-block; text-align: center;">
-    <img src="joy.gif" height="300px"><br>
-    <em>Real-Time Virtual Human Expressiveness</em>
-  </div>
 
-  <div style="display: inline-block; text-align: center;">
-    <img src="collab.gif" height="300px"><br>
-    <em>Automated Product Rendering Pipeline</em>
-  </div>
-</div>
+  <table width="100%" border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/1b3bbed9-f365-4200-8abd-346be9d576dd"><br>
+        <em>Virtual Human Expressiveness</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/e8f1621e-5db9-44d0-9628-4bc37f6095d0"><br>
+        <em>Automated Product Rendering Pipeline</em>
+      </td>
+    </tr>
+  </table>
+
 
 ## Areas of Expertise
 
